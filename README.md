@@ -26,17 +26,18 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=quyen244.quyen244)
 
-# 📌demo-github
+
 
 # 📌 demo-github
 
-![Stars](https://img.shields.io/github/stars/quyen244/demo-github?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/quyen244/demo-github?color=blue)
+[![Stars](https://img.shields.io/github/stars/quyen244/demo-github?style=social)](https://github.com/quyen244/demo-github/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/quyen244/demo-github?color=blue)](https://github.com/quyen244/demo-github/commits/main)
 
+---
 
-# skills-introduction-to-github
+# 📌 skills-introduction-to-github
 
+[![Stars](https://img.shields.io/github/stars/quyen244/skills-introduction-to-github?style=social)](https://github.com/quyen244/skills-introduction-to-github/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/quyen244/skills-introduction-to-github?color=violet)](https://github.com/quyen244/skills-introduction-to-github/commits/main)
 
-![Stars](https://img.shields.io/github/stars/quyen244/skills-introduction-to-github?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/quyen244/?color=violet)
 
