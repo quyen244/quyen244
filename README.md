@@ -17,6 +17,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=quyen244&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+[![trophy](https://github-profile-trophy.vercel.app/?username=quyen244&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=quyen244.your-username)
 
