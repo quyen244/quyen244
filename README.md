@@ -28,16 +28,27 @@
 
 
 
-# 📌 demo-github
+# 🚀 Các Dự Án Nổi Bật
+
+## 📌 demo-github
+
+💡 **Mô tả**: Dự án nhỏ giúp mình thực hành sử dụng GitHub và JavaScript cơ bản.
 
 [![Stars](https://img.shields.io/github/stars/quyen244/demo-github?style=social)](https://github.com/quyen244/demo-github/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/quyen244/demo-github?color=blue)](https://github.com/quyen244/demo-github/commits/main)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=demo-github&theme=radical)](https://github.com/quyen244/demo-github)
+
 ---
 
-# 📌 skills-introduction-to-github
+## 📌 skills-introduction-to-github
+
+💡 **Mô tả**: Dự án hoàn thành bài tập trong khoá học *Introduction to GitHub* từ GitHub Skills.
 
 [![Stars](https://img.shields.io/github/stars/quyen244/skills-introduction-to-github?style=social)](https://github.com/quyen244/skills-introduction-to-github/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/quyen244/skills-introduction-to-github?color=violet)](https://github.com/quyen244/skills-introduction-to-github/commits/main)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=skills-introduction-to-github&theme=radical)](https://github.com/quyen244/skills-introduction-to-github)
+
 
 
