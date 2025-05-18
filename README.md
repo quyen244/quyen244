@@ -28,18 +28,15 @@
 
 # 📌demo-github
 
+# 📌 demo-github
 
-![Stars](https://img.shields.io/github/stars/quyen244/demo-github
-)
-![Last Commit](https://img.shields.io/github/last-commit/quyen244/demo-github
-)
+![Stars](https://img.shields.io/github/stars/quyen244/demo-github?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/quyen244/demo-github?color=blue)
 
 
-    srcset="https://github-readme-stats.vercel.app/api?username=quyen244&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=quyen244&show_icons=true" />
-</picture>
-## 
+# skills-introduction-to-github
 
+
+![Stars](https://img.shields.io/github/stars/quyen244/skills-introduction-to-github?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/quyen244/?color=violet)
 
