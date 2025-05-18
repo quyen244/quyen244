@@ -26,13 +26,15 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=quyen244.quyen244)
 
-## 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
+# 📌demo-github
+
+
+![Stars](https://img.shields.io/github/stars/quyen244/demo-github
+)
+![Last Commit](https://img.shields.io/github/last-commit/quyen244/demo-github
+)
+
+
     srcset="https://github-readme-stats.vercel.app/api?username=quyen244&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
