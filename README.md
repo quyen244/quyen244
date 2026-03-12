@@ -1,54 +1,82 @@
-## 👋 Hi there! Welcome to my GitHub profile!
+# Hi there, I'm Nguyen Van Quyen! 👋
 
-### 👨‍💻 Xin chào! Mình là **Quyền**
-- 🔭 Hiện tại đang làm việc tại **UIT**
-- 🌱 Đang học: React.js, Node.js, AI, v.v.
-- 💬 Hỏi mình về: lập trình, phát triển web, GitHub
-- 📫 Liên hệ: [quyendep2580@gmail.com](mailto:quyendep2580@gmail.com)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=quyen244&label=Profile%20views&color=0e75b6&style=flat" alt="quyen244" />
+</p>
 
----
+> **"I'm not the only dreamer. Don't limit your challenges - challenge your limits."**
 
-### 🚀 Kỹ năng của mình
+### 👨‍💻 Who am I?
+I am a Computer Science student at **University of Information Technology (UIT)**. My journey is defined by a curiosity that never rests and an ability to pivot rapidly in the face of new technological landscapes.
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+- 📚 **Lifelong Learner:** Deeply diving into Data Science, Machine Learning, and Financial Analysis.
+- ⚡ **Agile Adaptability:** I thrive in fast-paced environments, turning "new" into "mastered" in record time.
+- 🌍 **Tech for Good:** Believer in the "Lead by Example" philosophy, actively contributing to community projects where technology meets social impact.
 
 ---
 
-### 📈 Thống kê GitHub của mình
-
-![Quyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quyen244&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quyen244&layout=compact&theme=radical)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=quyen244.quyen244)
-
-
-
-# 🚀 Các Dự Án Nổi Bật
-
-## 📌 demo-github
-
-💡 **Mô tả**: Dự án nhỏ giúp mình thực hành sử dụng GitHub và JavaScript cơ bản.
-
-[![Stars](https://img.shields.io/github/stars/quyen244/demo-github?style=social)](https://github.com/quyen244/demo-github/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/quyen244/demo-github?color=blue)](https://github.com/quyen244/demo-github/commits/main)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=demo-github&theme=radical)](https://github.com/quyen244/demo-github)
+### 📊 My Journey in Numbers
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=quyen244&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyen244&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
 
 ---
 
-## 📌 skills-introduction-to-github
+### 🛠 My Adaptive Tech Stack
 
-💡 **Mô tả**: Dự án hoàn thành bài tập trong khoá học *Introduction to GitHub* từ GitHub Skills.
+#### 🧠 Data Science & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-[![Stars](https://img.shields.io/github/stars/quyen244/skills-introduction-to-github?style=social)](https://github.com/quyen244/skills-introduction-to-github/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/quyen244/skills-introduction-to-github?color=violet)](https://github.com/quyen244/skills-introduction-to-github/commits/main)
+#### 📈 Analysis & Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=skills-introduction-to-github&theme=radical)](https://github.com/quyen244/skills-introduction-to-github)
+#### 🚀 Deployment & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+---
 
+### 🔥 Featured Projects
+*Where curiosity meets execution.*
 
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://github.com/quyen244/realtime-sentiment-analysis-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=realtime-sentiment-analysis-system&theme=tokyonight" /></a></td>
+      <td><a href="https://github.com/quyen244/AI-Assistant-for-Business-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=AI-Assistant-for-Business-Data&theme=tokyonight" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/quyen244/vehicle-counting-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=vehicle-counting-system&theme=tokyonight" /></a></td>
+      <td><a href="https://github.com/quyen244/bunch-banana-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=bunch-banana-detection&theme=tokyonight" /></a></td>
+    </tr>
+  </table>
+  <br/>
+  <a href="https://github.com/quyen244?tab=repositories"><b>Explore more repositories →</b></a>
+</div>
+
+---
+
+### 📫 Let's Evolve Together
+
+<p align="left">
+  <a href="mailto:quyendep2580@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/nguyen.van.quyen.494998" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <i>"Always learning, always adapting, always coding."</i>
+</p>
