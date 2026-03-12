@@ -51,9 +51,10 @@ I am a Computer Science student at **University of Information Technology (UIT)*
 ---
 
 ### 🔥 Featured Projects
-*Where curiosity meets execution.*
+*A showcase of my continuous learning journey and technical evolution.*
 
 <div align="center">
+
   <a href="https://github.com/quyen244/realtime-sentiment-analysis-system">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=realtime-sentiment-analysis-system&theme=tokyonight&show_owner=true" />
   </a>
@@ -70,10 +71,36 @@ I am a Computer Science student at **University of Information Technology (UIT)*
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=bunch-banana-detection&theme=tokyonight&show_owner=true" />
   </a>
 
+  <br/>
+
+  <a href="https://github.com/quyen244/IE403.Q11_Hate-Speech-Detection-and-Highlighting-for-Vietnamese-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=IE403.Q11_Hate-Speech-Detection-and-Highlighting-for-Vietnamese-Project&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/quyen244/CS221.Q12-Vietnamese-Named-Entity-Recognition">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=CS221.Q12-Vietnamese-Named-Entity-Recognition&theme=tokyonight&show_owner=true" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/quyen244/WebRAG_GenAI_Chatbot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=WebRAG_GenAI_Chatbot&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/quyen244/pharmacy-ai-suite">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=pharmacy-ai-suite&theme=tokyonight&show_owner=true" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/quyen244/Realtime-Stock-Analysis-Tool-for-Vietnam-Market">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=Realtime-Stock-Analysis-Tool-for-Vietnam-Market&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/quyen244/Loan-Approval-Prediction-CourseProject">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=Loan-Approval-Prediction-CourseProject&theme=tokyonight&show_owner=true" />
+  </a>
+
   <br/><br/>
   <a href="https://github.com/quyen244?tab=repositories"><b>Explore more repositories →</b></a>
 </div>
-
 ---
 
 ### 📫 Let's Evolve Together
