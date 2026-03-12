@@ -56,19 +56,19 @@ I am a Computer Science student at **University of Information Technology (UIT)*
 <div align="center">
 
   <a href="https://github.com/quyen244/realtime-sentiment-analysis-system">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=realtime-sentiment-analysis-system&theme=tokyonight&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=realtime-sentiment-analysis-system&theme=tokyonight&show_owner=true" />
   </a>
   <a href="https://github.com/quyen244/AI-Assistant-for-Business-Data">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=AI-Assistant-for-Business-Data&theme=tokyonight&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=AI-Assistant-for-Business-Data&theme=tokyonight&show_owner=true" />
   </a>
   
   <br/>
 
   <a href="https://github.com/quyen244/vehicle-counting-system">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=vehicle-counting-system&theme=tokyonight&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=vehicle-counting-system&theme=tokyonight&show_owner=true" />
   </a>
   <a href="https://github.com/quyen244/bunch-banana-detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=bunch-banana-detection&theme=tokyonight&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=bunch-banana-detection&theme=tokyonight&show_owner=true" />
   </a>
 
   <br/>
