@@ -54,17 +54,23 @@ I am a Computer Science student at **University of Information Technology (UIT)*
 *Where curiosity meets execution.*
 
 <div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/quyen244/realtime-sentiment-analysis-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=realtime-sentiment-analysis-system&theme=tokyonight" /></a></td>
-      <td><a href="https://github.com/quyen244/AI-Assistant-for-Business-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=AI-Assistant-for-Business-Data&theme=tokyonight" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/quyen244/vehicle-counting-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=vehicle-counting-system&theme=tokyonight" /></a></td>
-      <td><a href="https://github.com/quyen244/bunch-banana-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=bunch-banana-detection&theme=tokyonight" /></a></td>
-    </tr>
-  </table>
+  <a href="https://github.com/quyen244/realtime-sentiment-analysis-system">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=realtime-sentiment-analysis-system&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/quyen244/AI-Assistant-for-Business-Data">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=AI-Assistant-for-Business-Data&theme=tokyonight&show_owner=true" />
+  </a>
+  
   <br/>
+
+  <a href="https://github.com/quyen244/vehicle-counting-system">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=vehicle-counting-system&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/quyen244/bunch-banana-detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quyen244&repo=bunch-banana-detection&theme=tokyonight&show_owner=true" />
+  </a>
+
+  <br/><br/>
   <a href="https://github.com/quyen244?tab=repositories"><b>Explore more repositories →</b></a>
 </div>
 
