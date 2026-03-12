@@ -19,6 +19,7 @@ I am a Computer Science student at **University of Information Technology (UIT)*
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=quyen244&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyen244&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://streak-stats.demolab.com/?user=quyen244&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
