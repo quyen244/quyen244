@@ -18,7 +18,7 @@ I am a Computer Science student at **University of Information Technology (UIT)*
 
 <div align="center">
 
-<img width="50%"
+<img width="65%"
      src="https://my-github-statistics.vercel.app/api?username=quyen244&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
 
 <br/><br/>
