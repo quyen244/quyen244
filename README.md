@@ -18,12 +18,12 @@ I am a Computer Science student at **University of Information Technology (UIT)*
 
 <div align="center">
 
-<img width="70%"
+<img width="40%"
      src="https://my-github-statistics.vercel.app/api?username=quyen244&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
 
 <br/><br/>
 
-<img width="70%"
+<img width="40%"
      src="https://my-github-statistics.vercel.app/api/top-langs/?username=quyen244&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&theme=dracula&langs_count=10"
      alt="Top Languages" />
 
