@@ -23,7 +23,7 @@ I am a Computer Science student at **University of Information Technology (UIT)*
 
 <br/><br/>
 
-<img width="20%"
+<img width="33%"
      src="https://my-github-statistics.vercel.app/api/top-langs/?username=quyen244&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&theme=dracula&langs_count=10"
      alt="Top Languages" />
 
