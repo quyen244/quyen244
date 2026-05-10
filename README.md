@@ -12,7 +12,19 @@ I am a Computer Science student at **University of Information Technology (UIT)*
 - 📚 **Lifelong Learner:** Deeply diving into Data Science, Machine Learning, and Financial Analysis.
 - ⚡ **Agile Adaptability:** I thrive in fast-paced environments, turning "new" into "mastered" in record time.
 - 🌍 **Tech for Good:** Believer in the "Lead by Example" philosophy, actively contributing to community projects where technology meets social impact.
+  
+### 🔗 Connect with Me
+- 🌐 **Portfolio:** [Check out my work!](https://my-portfolio-lovat-chi-83.vercel.app/)
+- 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourusername)
 
+<p align="left">
+  <a href="mailto:quyendep2580@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/nguyen.van.quyen.494998" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 ---
 ### 📊 My Journey in Numbers
 
@@ -100,17 +112,6 @@ I am a Computer Science student at **University of Information Technology (UIT)*
   <a href="https://github.com/quyen244?tab=repositories"><b>Explore more repositories →</b></a>
 </div>
 
-
-### 📫 Let's Evolve Together
-
-<p align="left">
-  <a href="mailto:quyendep2580@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/nguyen.van.quyen.494998" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
 
 ---
 <p align="center">
