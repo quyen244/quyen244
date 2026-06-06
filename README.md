@@ -82,23 +82,23 @@ I am a Computer Science student at **University of Information Technology (UIT)*
   
   <br/>
 
-  <a href="https://github.com/quyen244/vehicle-counting-system">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=vehicle-counting-system&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/quyen244/Healthy-App">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=Healthy-App&theme=tokyonight&show_owner=true" />
   </a>
   <a href="https://github.com/quyen244/bunch-banana-detection">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=bunch-banana-detection&theme=tokyonight&show_owner=true" />
   </a>
 
-  <a href="https://github.com/quyen244/CS231-Introductory-CV">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=CS231-Introductory-CV&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/quyen244/SimpleRAG">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=SimpleRAG&theme=tokyonight&show_owner=true" />
   </a>
   
-  <a href="https://github.com/quyen244/Vietnamese-Emotional-Voice-Gen">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=Vietnamese-Emotional-Voice-Gen&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/quyen244/Vi-ExToxic">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=Vi-ExToxic&theme=tokyonight&show_owner=true" />
   </a>
 
-  <a href="https://github.com/quyen244/Symbol-Recognition">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=Symbol-Recognition&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/quyen244/CS406-Bunch_Banana-Classification">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quyen244&repo=CS406-Bunch_Banana-Classification&theme=tokyonight&show_owner=true" />
   </a>
 
    <a href="https://github.com/quyen244/IELTS-AI-Evaluator">
