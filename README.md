@@ -5,9 +5,8 @@
 ### Hi there, I'm Nguyễn Văn Quyền 👋
 
 - 🔭 Building **end-to-end AI systems** — streaming pipelines, fine-tuned LLMs, production APIs, dashboards
-- 🏆 Reached **Top 300** at Viettel Race AI 2026 (Vietnamese Clinical NLP) through 7 controlled experimental iterations
 - 🌱 Deepening my focus on **Vietnamese-language NLP** — clinical text extraction, hate-speech detection, RAG, emotional TTS
-- 🎓 3rd-year Computer Science student @ **UIT – VNU-HCM** · GPA 8.35/10 · IELTS 7.0 (C1 Advanced)
+- 🎓 4rd-year Computer Science student @ **UIT – VNU-HCM** · GPA 8.30/10 · IELTS 7.0 (C1 Advanced)
 - 💬 Ask me about LangChain, Kafka/Spark pipelines, or fine-tuning small models under real cost/latency constraints
 - 📫 Reach me at **quyendep2580@gmail.com** or check out my **[portfolio](https://my-portfolio-lovat-chi-83.vercel.app/)**
 
